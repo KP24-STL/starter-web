@@ -14,3 +14,7 @@ Like what was mentioned in the above section
 This is a simple web project, deployment can be on any web server or even local file system.
 
 Sample website with plenty of files for demos
+
+### Copyright
+
+2014 Git.training.
