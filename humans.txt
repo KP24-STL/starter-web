@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Bogey Chicken   youremail@gmail.com   @bca
 
 # THANKS
 
