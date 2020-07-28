@@ -23,4 +23,4 @@ Please fork this repository and then issues Pull Request
 
 ### Copyright
 
-2014 Git.training.
+2014 Git.training. All rights reserved
